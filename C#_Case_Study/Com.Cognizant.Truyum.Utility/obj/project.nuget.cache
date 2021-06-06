@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vpeAZ9W1d7aDKkK1CWDmIgQPjrs1OEslodlSVJ1cSCBi8iYr1ovpvBJo0U+egXjBvkdYr6gmk7f1CjXK8nWC+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\truyum\\Cognizant-Case-Study\\C#_Case_Study\\Com.Cognizant.Truyum.Utility\\Com.Cognizant.Truyum.Utility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
